@@ -1,0 +1,1 @@
+antdesign과 styled 컴포넌트를 설치하고 AppLayer 페이지에 적용시켜 보았다.
